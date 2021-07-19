@@ -16,3 +16,4 @@ connection.connect(function(err) {
     console.log('You are now connected');
   });
 
+module.exports = connection
