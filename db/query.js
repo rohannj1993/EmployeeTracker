@@ -22,4 +22,4 @@ class Query {
         return this.connection.promise().query(`INSERT INTO employee SET ?`, employee)
     }
 }
-module.exports = new Query(connection)
+module.exports = new Query(connection)    
