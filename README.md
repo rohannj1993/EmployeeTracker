@@ -7,3 +7,7 @@ https://drive.google.com/file/d/17tvGUahfSxmgcSQcK5L6MFbODpAtREEb/view
 
 
 
+Screenshots- I was also able to include screenshots of the app in use in the command line
+![screenshot](db/assets/screenshots/Screenshot115.png)
+![screenshot](db/assets/screenshots/Screenshot116.png)
+![screenshot](db/assets/screenshots/Screenshot117.png)
